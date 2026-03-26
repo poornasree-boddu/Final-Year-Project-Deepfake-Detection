@@ -1,0 +1,32 @@
+# Python cache and artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+multimodal_env/
+.venv/
+venv/
+env/
+
+# Tooling/cache
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Logs and local files
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Large project assets (keep out of GitHub)
+datasets/
+
+*.onnx
+
+# Streamlit temp uploads
+/tmp/
