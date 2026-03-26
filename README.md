@@ -181,7 +181,7 @@ streamlit run app.py
 * D Yashwanth
 * G Raja
 * A Hemanth Kumar
-Under the guidence of Dr.Ravi Kiran (Prof. of Raghu Institute of Technology)
+* Under the guidence of Dr.Ravi Kiran (Prof. of Raghu Institute of Technology)
 ---
 
 ## 📜 License
