@@ -434,8 +434,5 @@ def main() -> None:
                 if gradcam is not None:
                     st.image(gradcam, caption="Heatmap", use_container_width=True)
 
-
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 10000))
-    app.run(host="0.0.0.0", port=port)
     main()
